@@ -105,31 +105,31 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: '[', s: '{'}
   - PG UP
+  - RGB HUI
+  - RGB HUD
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB OFF
-  - RGB ON
-  - RGB EFF
-  - RGB EFR
-  - RGB SPI
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - RGB BRI
-  - RGB BRD
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - Ins
   - F11
-  - F12
+  - RGB SAD
   - PG DN
   - $$mdi:volume-off$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB TOG
+  - RGB EFF
+  - RGB SPI
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB BRI
   - $$mdi:mouse-left-click-outline$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - MENU
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB BRD
+  - RGB SPD
+  - RGB SAI
+  - RGB SAI
+  - RGB SAD
   '2':
   - '~'
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
